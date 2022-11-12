@@ -107,7 +107,7 @@ height: 450px;
 }
 .dog{
 display: flex;
- width:600px;  
+width:600px;  
 height: 450px;   
 }
 .stuck{
@@ -128,7 +128,22 @@ color: white;
 }
 .own{
 display: flex;
- width:800px;  
+width:800px;  
 height: 450px;   
+}
+ p.adjust{
+    color: black;
+     text-align: left;
+     font-size: 25px;
+    font-family: "Garamond", Times, serif;
+     outline-style: double;
+     outline-color: white;
+     margin: 100px;
+    padding: 50px;
+    background-color: white; opacity: 0.5;
+}
+.omak{
+height: 700px;
+width: 1150px;
 }
 
